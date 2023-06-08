@@ -1,4 +1,27 @@
-Username=sara			Password = ABcd@12345			Fullname = Sara Moghadam			Shell = Bash			Home Directory Name = apartment			SSH_Key = ssh-rsa sara
-Username=Ali			Password = ABcd@123456			Fullname = Ali Ebadi				Shell = Bash			Home Directory Name = apartment			SSH_Key = ssh-rsa Ali
-Username=mamad		Password = ABcd@1234567			Fullname = mamad mamadi				Shell =Bash			Home Directory Name = apartment			SSH_Key = ssh-rsa mamad
+#!/bin/bash
+
+Username=Sara
+Password=ABcd@12345
+Fullname="Sara Moghadam"
+Shell=bash
+HomeDirectoryName=apartment
+SSH_Key="ssh-rsa sara"
+
+
+
+# Username = Ali
+# Password = ABcd@123456
+# Fullname = Ali Ebadi
+# Shell = Bash
+# Home Directory Name = apartment			
+# SSH_Key = ssh-rsa Ali
+
+
+
+# Username = mamad
+# Password = ABcd@1234567
+# Fullname = mamad mamadi
+# Shell =Bash
+# Home Directory Name = apartment
+# SSH_Key = ssh-rsa mamad
 
